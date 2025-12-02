@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9370f17c653e94c29948b6883597f4f3
+timeCreated: 1537177094
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Plugins/Playmaker/GAInitialize.cs
+  uploadId: 540206

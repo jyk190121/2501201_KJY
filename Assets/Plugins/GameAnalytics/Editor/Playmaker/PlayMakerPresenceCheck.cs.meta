@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59b631ff074a747748991261a24f2a0d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Editor/Playmaker/PlayMakerPresenceCheck.cs
+  uploadId: 540206

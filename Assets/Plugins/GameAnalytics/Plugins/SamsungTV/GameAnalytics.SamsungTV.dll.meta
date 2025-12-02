@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 0f62e1daf300cc540841be311ff17de8
+timeCreated: 1474581327
+licenseType: Store
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    SamsungTV:
+      enabled: 1
+      settings: {}
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Plugins/SamsungTV/GameAnalytics.SamsungTV.dll
+  uploadId: 540206

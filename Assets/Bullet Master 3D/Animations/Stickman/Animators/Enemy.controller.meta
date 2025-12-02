@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8b9f0ce01476a44a9a8895d65f7403b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Bullet Master 3D/Animations/Stickman/Animators/Enemy.controller
+  uploadId: 540206

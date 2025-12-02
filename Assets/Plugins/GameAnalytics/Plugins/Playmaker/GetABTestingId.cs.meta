@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 454d889a3c60a494aa071812450cf1e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Plugins/Playmaker/GetABTestingId.cs
+  uploadId: 540206

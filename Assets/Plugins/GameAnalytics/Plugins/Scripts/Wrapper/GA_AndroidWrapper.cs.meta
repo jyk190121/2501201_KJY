@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 95ca1d00b4a004e3f9f69da6258ecdb1
+timeCreated: 1433512546
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Plugins/Scripts/Wrapper/GA_AndroidWrapper.cs
+  uploadId: 540206

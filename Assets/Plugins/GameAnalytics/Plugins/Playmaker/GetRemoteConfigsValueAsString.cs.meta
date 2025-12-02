@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 385dfd45fbeae4407b26dab4174751a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Plugins/Playmaker/GetRemoteConfigsValueAsString.cs
+  uploadId: 540206

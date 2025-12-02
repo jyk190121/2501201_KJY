@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75f6380e113068745aeac319d5a9629d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Bullet Master 3D/Scenes/Level_20/NavMesh-NavMesh.asset
+  uploadId: 540206

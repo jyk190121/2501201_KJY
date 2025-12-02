@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0cb826f44f854c745b0bba7be7d9eb95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Bullet Master 3D/Scripts/Menu/UIManager.cs
+  uploadId: 540206

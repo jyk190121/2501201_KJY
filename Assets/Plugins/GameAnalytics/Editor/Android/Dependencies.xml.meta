@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f4d3591460e6344cca6fe66ecbde645f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Editor/Android/Dependencies.xml
+  uploadId: 540206

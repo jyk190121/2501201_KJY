@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b6a0e41a829274f5685679cc63e692ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Plugins/Scripts/ILRD/HyperBid/GAHyperBidIntegration.cs
+  uploadId: 540206

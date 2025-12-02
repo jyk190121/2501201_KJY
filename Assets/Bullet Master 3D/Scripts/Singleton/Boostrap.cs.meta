@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f738b10bdf7e48a38d9edfe2365baafb
+timeCreated: 1664803437
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Bullet Master 3D/Scripts/Singleton/Boostrap.cs
+  uploadId: 540206

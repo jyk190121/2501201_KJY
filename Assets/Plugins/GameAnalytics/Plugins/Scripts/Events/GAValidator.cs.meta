@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2f5d575b6c7034a7385fb0ee45564a2e
+timeCreated: 1476364280
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Plugins/Scripts/Events/GAValidator.cs
+  uploadId: 540206

@@ -10,7 +10,7 @@ public class PlayerMove : MonoBehaviour
     CharacterController cc;     //캐릭터 컨트롤러 컴포넌트
     float gravity = -10f;       //중력
     float velocityY;            //낙하속도
-    float jumpPower = 4f;       //점프파워
+    float jumpPower = 2f;       //점프파워
     int jumpCount = 0;          //점프카운트
     int jumpMaxCount = 2;       //최대점프횟수
 

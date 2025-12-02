@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9675c8bb21c9b942a25e229a3187eff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Bullet Master 3D/Scenes/Level_2/LightingData.asset
+  uploadId: 540206

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70be77d6d28699f489e15b70c40522d9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Bullet Master 3D/Animations/UI/Animators/Button Play Text.controller
+  uploadId: 540206

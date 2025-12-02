@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b86bf966f50b94d51b995b04fd531177
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Plugins/Playmaker/SendProgressionEvent.cs
+  uploadId: 540206

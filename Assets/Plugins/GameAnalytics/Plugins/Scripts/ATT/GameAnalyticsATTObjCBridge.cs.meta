@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 76cd2783d53fd4bfda5c04439f8dd1bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Plugins/Scripts/ATT/GameAnalyticsATTObjCBridge.cs
+  uploadId: 540206

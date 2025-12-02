@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19da6243a1a7449a585f5f945b7a1f94
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Editor/GA_PostprocessBuild.cs
+  uploadId: 540206

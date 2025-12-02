@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a9d27d37bab3c447b8eb7a2a6756e952
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Plugins/Prefabs/GameAnalytics.prefab
+  uploadId: 540206

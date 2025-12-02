@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ad35c27ecc9784217817c154d2ff09ff
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Plugins/GameAnalytics/Plugins/Scripts/Events/GA_Setup.cs
+  uploadId: 540206

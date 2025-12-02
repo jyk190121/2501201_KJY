@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f785bcd7dd4f45b393f78f7a9983cfe9
+timeCreated: 1664810570
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Bullet Master 3D/Scripts/Singleton/GameStates.cs
+  uploadId: 540206

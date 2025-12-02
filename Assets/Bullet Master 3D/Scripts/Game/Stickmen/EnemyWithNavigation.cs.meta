@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b75a9412268f4bbd8ecabbf30834840f
+timeCreated: 1659695073
+AssetOrigin:
+  serializedVersion: 1
+  productId: 234251
+  packageName: Bullet Master 3D
+  packageVersion: 1.0.1
+  assetPath: Assets/Bullet Master 3D/Scripts/Game/Stickmen/EnemyWithNavigation.cs
+  uploadId: 540206
